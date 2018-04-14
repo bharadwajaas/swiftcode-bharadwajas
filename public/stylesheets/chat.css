@@ -1,1 +1,16 @@
+html,
+body {
+    height: 100%;
+    padding: 0px;
+    color: red;
+    margin: 0px;
+    overflow: hidden;
+}
 
+#message-pane {
+    background: grey;
+}
+
+.material-icons {
+    font-size: 40px !!important;
+}
